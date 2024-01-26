@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://loancv12.github.io/edu_codespace",
+  "homepage": "https://loancv12.github.io/edu_codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://loancv12.github.io/edu_codespace'",
+    "build-gh": "parcel build --public-url 'https://loancv12.github.io/edu_codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
